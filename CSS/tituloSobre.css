@@ -1,0 +1,35 @@
+.sobreTitulo {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #8E2424;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.pqDiferentes {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    color: #101828;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.tituloSobre {
+    width: 42%;
+    margin: auto;
+    text-align: center;
+}
+.subTitulo {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #667085;
+}

@@ -1,0 +1,85 @@
+.formulario {
+    width: 100%;
+    height: 430px;
+    background: #F9FAFB;
+    margin-top: 96px;
+}
+.acompanhe {
+    height: 144px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    color: #101828;
+    margin-top: 96px;
+    margin-bottom: 20px;
+}
+.dica {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #667085;
+    
+}
+.email {
+    width: 360px;
+    height: 48px;
+    background: #FFFFFF;
+    border: 1px solid #D0D5DD;
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    margin-right: 13px;
+}
+.email__seu {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #667085;
+    margin-left: 16px;
+}
+.cadastro {
+    width: 116px;
+    height: 48px;
+    background: #8E2424;
+    border: 1px solid #8E2424;
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cadastrar {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.container {
+    width: 492px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+h6 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #98A2B3;
+}

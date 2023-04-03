@@ -1,0 +1,30 @@
+.métricas {
+    width: 100%;
+    height: 288px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 60px;
+   
+}
+.infoNumeros {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    color: #8E2424;
+}
+.textInfo {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #101828;
+}
+.textInfo__Info {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #667085;
+    width: 280px;
+}

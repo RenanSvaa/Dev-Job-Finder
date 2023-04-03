@@ -1,0 +1,26 @@
+.btn {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #667085;
+    display: flex;
+    gap: 64px;
+    align-items: center;
+}
+.botao {
+    background-color: #8E2424;
+    color: white;
+    width: 112px;
+    height: 44px;
+    border: 1px solid #8E2424;
+    border-radius: 8px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.botao1 {
+    display: flex;
+    align-items: center;
+    
+}
